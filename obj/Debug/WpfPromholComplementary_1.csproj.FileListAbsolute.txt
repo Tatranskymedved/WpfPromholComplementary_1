@@ -1,0 +1,21 @@
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\bin\Debug\WpfPromholComplementary_1.exe.config
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\WpfPromholComplementary_1.csprojResolveAssemblyReference.cache
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\MainWindow.g.cs
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\MyModuleFrame.g.cs
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\App.g.cs
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\WpfPromholComplementary_1_MarkupCompile.cache
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\WpfPromholComplementary_1_MarkupCompile.lref
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\bin\Debug\WpfPromholComplementary_1.exe
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\bin\Debug\WpfPromholComplementary_1.pdb
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\MainWindow.baml
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\MyModuleFrame.baml
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\WpfPromholComplementary_1.g.resources
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\WpfPromholComplementary_1.Properties.Resources.resources
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\WpfPromholComplementary_1.csproj.GenerateResource.Cache
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\WpfPromholComplementary_1.exe
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\WpfPromholComplementary_1.pdb
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jan.urbanec.INGETEAM\Documents\Visual Studio 2015\Projects\WpfPromholComplementary_1\obj\Debug\App.baml
+C:\Users\jan.urbanec.INGETEAM\Desktop\WpfPromholComplementary_1\bin\Debug\WpfPromholComplementary_1.exe.config
+C:\Users\jan.urbanec.INGETEAM\Desktop\WpfPromholComplementary_1\obj\Debug\WpfPromholComplementary_1.exe
+C:\Users\jan.urbanec.INGETEAM\Desktop\WpfPromholComplementary_1\obj\Debug\WpfPromholComplementary_1.pdb
